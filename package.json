@@ -1,0 +1,10 @@
+{
+  "name": "market-reputation-sys",
+  "version": "0.1.0",
+  "description": "On-chain reputation system for market creators and oracles",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
